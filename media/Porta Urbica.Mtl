@@ -1,0 +1,42 @@
+# Created By Carrara 8.0
+
+newmtl PU_gradoni
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0.003922 0
+ Ks 0.2 0.2 0.2
+ map_Kd PU_gradoni.jpg
+
+newmtl PU_Archi_Piccoli
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd PU_Archi_Piccoli.jpg
+
+newmtl PU_Mattoni_Main
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0.011765 0 0.007843
+ Ks 0.2 0.2 0.2
+ map_Kd PU_Mattoni_Main.jpg
+
+newmtl 0
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0.003922 0
+ Ks 0.2 0.2 0.2
+ map_Kd 0.jpg
+

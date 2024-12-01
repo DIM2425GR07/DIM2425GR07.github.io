@@ -1,0 +1,162 @@
+# Created By Carrara 8.0
+
+newmtl Terme_decoropisci
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_decoropisci.jpg
+
+newmtl Terme_capitelli
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_capitelli.jpg
+
+newmtl Terme_archiingressi
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_archiingressi.jpg
+
+newmtl Terme_ingressodecori
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_ingressodecori.jpg
+
+newmtl Terme_muroingresso
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_muroingresso.jpg
+
+newmtl Terrme_piscina
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terrme_piscina.jpg
+
+newmtl Terme_prato
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_prato.jpg
+
+newmtl Terme_bloccocentrale
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_bloccocentrale.jpg
+
+newmtl Terme_porticopav
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_porticopav.jpg
+
+newmtl Terme_colonne
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0.003922 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_colonne.jpg
+
+newmtl Terme_sottotetto
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_sottotetto.jpg
+
+newmtl Terme_pareti_trasparenti
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_pareti_trasparenti.jpg
+
+newmtl Terme_gocciolatoio
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_gocciolatoio.jpg
+
+newmtl Terme_travi
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_travi.jpg
+
+newmtl Terme_tetto
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terme_tetto.jpg
+
+newmtl Acqua.1
+ Ns 45
+ d 0.475248
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Acqua.jpg
+
