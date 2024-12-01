@@ -1,0 +1,492 @@
+# Created By Carrara 8.0
+
+newmtl Tendaggi
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Tendaggi.jpg
+
+newmtl CorinziColonnatoPalco
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd CorinziColonnatoPalco.jpg
+
+newmtl CapitelloCorinzioSpalti_A
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd CapitelloCorinzioSpalti_A.jpg
+
+newmtl CapitelloCorinzioSpalti_B
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd CapitelloCorinzioSpalti_B.jpg
+
+newmtl TettoTribune
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd TettoTribune.jpg
+
+newmtl GradiniSpalti001
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd GradiniSpalti001.jpg
+
+newmtl StucchiAnfiteatroEsterno
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd StucchiAnfiteatroEsterno.jpg
+
+newmtl Carrucole
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Carrucole.jpg
+
+newmtl ArcateEsterne
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd ArcateEsterne.jpg
+
+newmtl ArcateInterne
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd ArcateInterne.jpg
+
+newmtl SpaltiNuovi
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd SpaltiNuovi.jpg
+
+newmtl PaliLegno
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd PaliLegno.jpg
+
+newmtl Colonne_Spalti
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Colonne_Spalti.jpg
+
+newmtl PilastriEsterni
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0.003922 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd PilastriEsterni.jpg
+
+newmtl PietraATerra
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd PietraATerra.jpg
+
+newmtl TieniPaliVele
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd TieniPaliVele.jpg
+
+newmtl Corde
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Corde.jpg
+
+newmtl CoronamentoTettoSpalti001
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd CoronamentoTettoSpalti001.jpg
+
+newmtl SottoTettoTribune
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd SottoTettoTribune.jpg
+
+newmtl TettoPatio
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd TettoPatio.jpg
+
+newmtl TraviTettoPatio
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd TraviTettoPatio.jpg
+
+newmtl MuriPerimetraliPatio
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd MuriPerimetraliPatio.jpg
+
+newmtl CorridoiScaleAccesso
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd CorridoiScaleAccesso.jpg
+
+newmtl Pergolato
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Pergolato.jpg
+
+newmtl CoronamentoMuroPatio
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd CoronamentoMuroPatio.jpg
+
+newmtl SottotettoPatio
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd SottotettoPatio.jpg
+
+newmtl ArcoAccessoPatio
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd ArcoAccessoPatio.jpg
+
+newmtl Colonne_Palco_Superiori
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Colonne_Palco_Superiori.jpg
+
+newmtl GiardinoInterno
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd GiardinoInterno.jpg
+
+newmtl PietraPalco
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd PietraPalco.jpg
+
+newmtl PietraPalcoScena
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd PietraPalcoScena.jpg
+
+newmtl CordoliCavea
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd CordoliCavea.jpg
+
+newmtl ArchiPietra
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd ArchiPietra.jpg
+
+newmtl Fontana
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Fontana.jpg
+
+newmtl TraviPalcoscenico
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd TraviPalcoscenico.jpg
+
+newmtl SottoTettoPalco
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd SottoTettoPalco.jpg
+
+newmtl GocciolatoioPatio
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd GocciolatoioPatio.jpg
+
+newmtl ScaleAccesso
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd ScaleAccesso.jpg
+
+newmtl BasamentoFontana
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd BasamentoFontana.jpg
+
+newmtl MuraturaDietroPalco
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd MuraturaDietroPalco.jpg
+
+newmtl Palco
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Palco.jpg
+
+newmtl Palco_B
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Palco_B.jpg
+
+newmtl Cordoli
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Cordoli.jpg
+
+newmtl Colonna_PatioA
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Colonna_PatioA.jpg
+
+newmtl Colonna_Palco_Inferiore
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Colonna_Palco_Inferiore.jpg
+
+newmtl TettoPalco
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd TettoPalco.jpg
+
+newmtl Colonna_PatioC
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Colonna_PatioC.jpg
+
+newmtl Colonna_PatioB
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Colonna_PatioB.jpg
+
+newmtl Colonna_PatioD
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Colonna_PatioD.jpg
+

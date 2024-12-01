@@ -1,0 +1,222 @@
+# Created By Carrara 8.0
+
+newmtl cordolo_tetto
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd cordolo_tetto.jpg
+
+newmtl mura_esterne_decoro
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd mura_esterne_decoro.jpg
+
+newmtl foro_portico_tetto_interno
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd foro_portico_tetto_interno.jpg
+
+newmtl tempio_foro_scale
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd tempio_foro_scale.jpg
+
+newmtl tempio_foro_mura
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd tempio_foro_mura.jpg
+
+newmtl tempio_foro_decoro_porta
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd tempio_foro_decoro_porta.jpg
+
+newmtl tempio_foro_porta
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd tempio_foro_porta.jpg
+
+newmtl tempio_foro_decoro_interno
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd tempio_foro_decoro_interno.jpg
+
+newmtl tempio_foro_basamento_calpestio
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd tempio_foro_basamento_calpestio.jpg
+
+newmtl tempio_foro_basamento
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd tempio_foro_basamento.jpg
+
+newmtl tempio_foro_coronamento_superio
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd tempio_foro_coronamento_superio.jpg
+
+newmtl tempio_foro_frontone
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0.007843
+ Ks 0.2 0.2 0.2
+ map_Kd tempio_foro_frontone.jpg
+
+newmtl Tetto_tempio_foro
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Tetto_tempio_foro.jpg
+
+newmtl tempio_foro_colonne
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd tempio_foro_colonne.jpg
+
+newmtl Colonnato_foro
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0.007843
+ Ks 0.2 0.2 0.2
+ map_Kd Colonnato_foro.jpg
+
+newmtl porta_tertrapila_decoro
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd porta_tertrapila_decoro.jpg
+
+newmtl pietra_tetrapila
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd pietra_tetrapila.jpg
+
+newmtl arcata_tetrapila
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd arcata_tetrapila.jpg
+
+newmtl Tetto_foro
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Tetto_foro.jpg
+
+newmtl Mura_esterne_foro
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Mura_esterne_foro.jpg
+
+newmtl Terreno_foro
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Terreno_foro.jpg
+
+newmtl Coronamento_interno_foro
+ Ns 45
+ d 1
+ Ni 0.001
+ illum 2
+ Ka 1 1 1
+ Kd 0 0 0
+ Ks 0.2 0.2 0.2
+ map_Kd Coronamento_interno_foro.jpg
+
